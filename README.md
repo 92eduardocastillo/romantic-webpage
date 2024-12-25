@@ -1,6 +1,6 @@
 # Proyecto Página Web Romántica
 
-Este proyecto es una página web romántica que muestra el tiempo transcurrido desde el inicio de la relación entre Eduardo y Arlet. La fecha de inicio de la relación es el 12 de noviembre de 2018. La página se actualiza en tiempo real para mostrar los años, meses, días, horas, minutos y segundos de la relación.
+Este proyecto es una página web romántica que muestra el tiempo transcurrido desde el inicio de la relación entre Eduardo y Arlet. La fecha de inicio de la relación es el 12 de noviembre de 2017. La página se actualiza en tiempo real para mostrar los años, meses, días, horas, minutos y segundos de la relación.
 
 ## Estructura del Proyecto
 
