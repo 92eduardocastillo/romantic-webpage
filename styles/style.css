@@ -1,0 +1,33 @@
+body {
+    background-color: #f8e1e1;
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    text-align: center;
+    padding: 50px;
+}
+
+h1 {
+    font-size: 2.5em;
+    color: #d5006d;
+}
+
+h2 {
+    font-size: 2em;
+    color: #c2185b;
+}
+
+#relationship-timer {
+    font-size: 1.5em;
+    margin-top: 20px;
+    padding: 20px;
+    border: 2px solid #d5006d;
+    border-radius: 10px;
+    background-color: #fff;
+    display: inline-block;
+}
+
+footer {
+    margin-top: 50px;
+    font-size: 1em;
+    color: #777;
+}
